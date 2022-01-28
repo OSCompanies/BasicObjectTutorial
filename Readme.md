@@ -18,7 +18,7 @@ Label 변경하기
 
 4.Controller의 viewdidLoad() 메소드 안에 해당 Outlet을 변경해 봅시다.
 
-viewdidLoad()는 메모리안에 해당 컨트롤러가 호출되었을 때 실행되는 메소드 입니다. 그래서 storyboard안에서는 "텍스트변경전" 으로 표시된 Label이 프로젝트가 실행되면서 "텍스트변경후"로 바뀌어서 호출됩니다.
+viewdidLoad()는 메모리안에 해당 컨트롤러가 호출되었을 때 실행되는 메소드 입니다. 그래서 storyboard안에서는 "텍스트변경전" 으로 표시된 Label이 프로젝트가 실행되면서 "텍스트변경후"로 바뀌어서 호출됩니다
 
 <img width="1005" alt="스크린샷 2022-01-12 오전 9 01 01" src="https://user-images.githubusercontent.com/73631818/149043153-1bdb5638-a3ad-418c-bb34-1cc4cc541f41.png">
 
